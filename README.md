@@ -1,5 +1,7 @@
 # T3 Code 速查表 | T3 Code Cheatsheet | Guía rápida de T3 Code
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 T3 Code：装在你自己机器上的一层「agent 遥控台」——Claude Code、Codex、Cursor 等编程 agent 仍然在你的电脑上跑、仍然花你自己的订阅，你用手机 App、网页或桌面端从任何地方看它们干活、给它们派活。它自己不卖模型，甚至明说：哪天我们走偏了，你把仓 fork 走自己建。
 
 - 上游项目：[pingdotgg/t3code](https://github.com/pingdotgg/t3code)（2026-10-31 实测 35,175 ★ / 8,767 forks，765 个 release，MIT）
